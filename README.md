@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Piergiorge
-- 👀 I’m interested in ...
+- 👀 I’m interested in genomics, bioinformatics, and medical genetics.
 - 🌱 I’m currently learning R, Perl and SQL.
 
 <!---
