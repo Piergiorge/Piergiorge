@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/jDvF_mSFBKAAAAAC/dna-helix.gif" width="30%">
+  <img src="https://super.abril.com.br/wp-content/uploads/2018/02/dna-rna-chromosomes-double-helix-rotating-animated-gif-8.gif" width="30%">
   <br><br>
   <samp>
     - 👋 Hi, I’m @Piergiorge
