@@ -2,9 +2,9 @@
   <img src="dna.gif" width="30%">
   <br><br>
   <samp>
-    - 👋 Hi, I’m @Piergiorge
-    - 👀 I’m interested in genomics, bioinformatics, and medical genetics.
-    - 🌱 I’m currently learning R, HTML5, CSS3, JavaScript, Python, Neural Networks, Cloud, Text Mining, Perl and SQL.
+    - 👋 Hi, I’m @Piergiorge. <br/>
+    - 👀 I’m interested in genomics, bioinformatics, and medical genetics. <br/>
+    - 🌱 I’m currently learning R, HTML5, CSS3, JavaScript, Python, Neural Networks, Cloud, Text Mining, Perl and SQL. <br/>
   </samp>
 </p>
 
