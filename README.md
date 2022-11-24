@@ -4,7 +4,7 @@
   <samp>
     - 👋 Hi, I’m @Piergiorge. <br/>
     - 👀 I’m interested in genomics, bioinformatics, and medical genetics. <br/>
-    - 🌱 I’m currently learning R, HTML5, CSS3, JavaScript, Python, Neural Networks, Text Mining, Perl and SQL. <br/>
+    - 🌱 I’m currently learning R, Python, Machine Learning, and SQL. <br/>
   </samp>
 </p>
 
